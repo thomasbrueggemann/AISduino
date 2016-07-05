@@ -2,7 +2,7 @@
   <img src="https://cdn.rawgit.com/thomasbrueggemann/aisdruino/master/icon.png" width="250" />
 </p>
 
-# AISdruino
+# AISduino
 Monitor NMEA AIS sentences via ESP8266 WiFi module
 
 ### Resources & Credits
