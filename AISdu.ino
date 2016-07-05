@@ -92,6 +92,7 @@ void loop()
     delay(500);
     wifi.connectTCP(serverIP, serverPort);
     delay(500);
+    
   }
   
   delay(50);
