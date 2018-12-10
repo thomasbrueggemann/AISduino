@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/thomasbrueggemann/aisdruino/master/icon.png" width="250" />
+  <img src="https://cdn.jsdelivr.net/gh/thomasbrueggemann/aisdruino@master/icon.png" width="250" />
 </p>
 
 # AISduino
